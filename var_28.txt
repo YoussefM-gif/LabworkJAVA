@@ -1,0 +1,15 @@
+... g = "шоколад"
+float k = 513
+character r = 453;
+duoble g = 32.32574209047386987;
+Char word = 3990.6522585049364604;
+character words = '2';
+bolean r = 't'
+integer q = 'v'
+double words = 'M';
+int e = 7117;
+number ... = 8834.8384828701748023;
+char b = "воздушный шарик"
+char z = 'n'
+character long = "роза"
+char d = 413
